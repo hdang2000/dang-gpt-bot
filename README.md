@@ -2,6 +2,10 @@
 
 This bot handles incoming text and voice messages on Telegram, transcribes voice using Google Speech Recognition, and replies using the Groq LLM API (`llama-3.3-70b-versatile`).
 
+## Demo
+
+![Demo](gpt_bot.mp4)
+
 ## Setup Instructions (Local)
 
 1. Clone the repo:
